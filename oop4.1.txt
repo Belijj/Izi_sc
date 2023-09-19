@@ -1,0 +1,27 @@
+Iesaistītās puses:
+
+Brālis - Vieglātletika sportists, kas gatavojas Latvijas čempionātam.
+Sporta treneris - Personāls, kas sniedz treniņu norises vadību un treniņu programmu izstrādi.
+Ģimene - Atbalsta un motivācijas avots sportistam.
+Kluba biedri - Citi sportisti, kas trenējas kopā ar brāli un var dalīties pieredzē un motivācijā.
+Sacensību organizatori - Organizācija, kas nodrošina sacensību norisi un rezultātu fiksēšanu.
+Pašreizējās procesa norises apraksts:
+Brālis regulāri piedalās treniņos, kurus vadījusi sporta treneris. Viņš veic fiziskos treniņus, kā arī ievēro diētu un veselīgu dzīvesveidu, lai sagatavotos Latvijas čempionātam. Sacensības tiek rīkotas noteiktā datumā, un brālis vēlas gūt labus rezultātus.
+
+Jautājumu saraksts, lai noskaidrotu vajadzības:
+
+Kāda veida informācija par treniņiem ir visrelevanterā?
+Kādos brīžos jūties visvairāk motivēts treniņiem?
+Kas tevi traucē ievērot diētu un uzturēt veselīgu dzīvesveidu?
+Kādas ir galvenās problēmas, ar kurām saskaries treniņu procesā?
+Kādas ir tās lietas, kas palīdzētu uzlabot treniņu efektivitāti?
+Kādas ir tavas gaidas un mērķi attiecībā uz sacensībām?
+Vai ir kādas specifiskas treniņu programmas daļas, kas ir bijušas vissarežģītākās vai prasījušas vairāk uzmanības?
+Kādas ir tevis izmantotās resursu un atbalsta veidi treniņos?
+Vai pastāv kādi noteikti datumi un termiņi, kas jāievēro treniņu plānošanā?
+Kādas ir tās lietas, kas varētu palīdzēt uzlabot sportista motivāciju un pašapziņu?
+Funkcionālo prasību apraksts:
+
+Sistēma jānodrošina ar treniņu plānošanas rīkiem, lai sportistam būtu skaidrs treniņu grafiks un uzdevumu saraksts.
+Sistēma jāsniedz iespēja fiksēt uztura plānu un pārtikas uzņemšanas režīmu.
+Sistēma jānodrošina ar sadaļu, kurā sportists varēs ierakstīt savus mērķus un novērojumus attiecībā uz treniņiem un rezultātiem.
