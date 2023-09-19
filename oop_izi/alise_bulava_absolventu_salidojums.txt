@@ -1,0 +1,35 @@
+Iesaistītās puses un to funkciju/pienākumu apraksts:
+
+Skolas direktore - Atbildīga par pasākuma organizēšanu un budžeta piešķiršanu, izlemj par pasākuma datumu un vietu, sadarbojas ar citām iesaistītajām pusēm.
+
+Absolventu klase - Pasākuma galvenie dalībnieki, plāno svinības un sniedz ieteikumus par pasākuma saturu un izkārtojumu.
+
+Skolas administrācija - Nodrošina tehnisko atbalstu, piemēram, telpu rezervāciju, tehnikas iznomāšanu, un var piedalīties pasākuma organizēšanā.
+
+Skolotāji - Var sniegt atbalstu svinību organizēšanā, izvēloties tēmas un organizējot aktivitātes vai uzstāšanos.
+
+Vecāki - Var būt iesaistīti, veicot ziedojumus pasākuma organizēšanai, vai piedalīties kā brīvprātīgie palīgi.
+
+Dekoratori un katerings - Nodrošina dekorus un ēdienkarti svinībām.
+
+Pašreizējās procesa norises apraksts:
+
+Pašreizējā procesa norise nav zināma, jo tas ir jauns projekts. Tomēr var pieņemt, ka absolventu klase ir uzsākusi diskusijas par to, kā organizēt salidojumu, un tās ir sākušas plānot pasākumu.
+
+Jautājumu saraksts, lai noskaidrotu vajadzības:
+
+Kāda veida pasākums jābūt - oficiāls vai neformāls?
+Kādu tēmu izvēlēties pasākumam?
+Cik daudz cilvēku plāno piedalīties pasākumā?
+Kāds ir budžeta ierobežojums un kādi ir finansēšanas avoti?
+Kādiem datumiem un vietām ir pieejamība pasākuma rīkošanai?
+Kāda būtu ideālā programma un kādas aktivitātes varētu iekļaut?
+Kā notiks ielūgumu izsūtīšana un reģistrācija?
+Kā notiks dekoru un kateringa izvēle un organizēšana?
+Kā tiks nodrošināta komunikācija ar visiem dalībniekiem?
+Kādas ir īpašās vajadzības, ja ir jāievēro veselības un drošības pasākumi?
+Funkcionālo prasību apraksts:
+
+Sistēma jānodrošina ar kalendāru, lai izvēlētos datumu un vietu pasākumam un lai visi dalībnieki varētu apstiprināt savu piedalīšanos.
+Sistēma jāsniedz iespēja izveidot un nosūtīt ielūgumus un reģistrācijas veidlapas.
+Sistēma jānodrošina ar budžeta plānošanas rīkiem un iespēju veikt ziedojumus pasākuma finansēšanai.
